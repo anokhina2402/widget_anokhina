@@ -1,0 +1,26 @@
+.temperature-container .temperature-label{
+
+}
+
+.temperature-container .temperature-value{
+    font-size: 1.5em;
+    color: #0A246A;
+    font-weight: 800;
+}
+
+.temperature-container .temperature-unit{
+
+}
+
+.rate-container .rate-label{
+
+}
+
+.rate-container .rate-value{
+    font-size: 1.5em;
+    color: #649316;
+    font-weight: 800;
+}
+.rate-container .rate-current{
+
+}
